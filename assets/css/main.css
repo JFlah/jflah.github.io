@@ -94,6 +94,12 @@
 			border-color: transparent;
 		}
 
+/* Image Circle */
+
+	.img-circle {
+		border-radius: 50%;
+	}
+
 /* Icon */
 
 	.icon {
